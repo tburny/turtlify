@@ -17,3 +17,4 @@ If you want to remove a turtle someone gave your shell, just remove the accordin
 
 # Disclaimer
 You should know what you are doing and that you are responsible for your actions.
+Also, see the LICENSE.txt file in this repository.
