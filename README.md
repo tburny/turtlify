@@ -14,3 +14,6 @@ You can see the source code anytime (and should check it) before you do that.
 
 ### I received a turtle
 If you want to remove a turtle someone gave your shell, just remove the according ```echo``` command at the end of ```~/.bashrc``` and/or ```~/.zshrc``` with your favourite ```$EDITOR```.
+
+# Disclaimer
+You should know what you are doing and that you are responsible for your actions.
