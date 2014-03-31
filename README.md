@@ -3,7 +3,7 @@ turtlify
 
 Everyone needs a turtle.
 
-Turtlify is a kind reminder to poeple who forget to log off when fetching coffee. Just give them a turtle in their shell. Why? Because there is a poor turtle without a shell and it needs a new home!
+Turtlify is a kind reminder to poeple who leave their computer unlocked while going away. It's a basic principle of computer security that you never should do that. So just give them a turtle in their shell. Why? Because there is a poor turtle without a shell and it needs a new home!
 
 To marry your turtle with the your (zsh, bash,...) shell, run the following command:
 
